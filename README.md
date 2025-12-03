@@ -181,4 +181,3 @@ Proprietary — you can look but you can’t touch.
 <p align="center">
 …built with ❤️ and a slight caffeine dependency for the Solana ecosystem ☕
 </p>
----
